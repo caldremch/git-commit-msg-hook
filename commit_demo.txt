@@ -1,5 +1,3 @@
-Chalkboard
-
 feat(commit测试): :fire: 文件提交
 
 1.添加test. 2.添加hook
