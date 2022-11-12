@@ -11,3 +11,4 @@
 - 变更日志生成参考 -https://github.com/release-lab/vscode-whatchanged
 - commit规范 https://www.conventionalcommits.org/en/v1.0.0/
 - Android Git Hooks https://blog.csdn.net/wangjiang_qianmo/article/details/118552362
+- Android Studio Commit Lint插件参考 - https://github.com/jetplugins/commitlint
